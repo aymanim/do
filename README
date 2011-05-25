@@ -1,0 +1,22 @@
+
+*** Still in development phas ****
+This is a GTD system for the terminal written in Python
+
+Key features (predicted):
+
+> Flat file database which allows for friendly access to the system from any platform
+> Synced through dropbox folder, ideally, which will allow online access to the system
+> in the future, might include webapp component which will allow read/write access to the list in a friendly way
+
+
+> Google calendar integration, so 'tickling' and future tasks can be added directly to you google calendar
+
+
+> Extremely easy collection phase. Add your thoughts, one thought per line, in a second file. Use terminal, notepad, or dropbox text editor on your phone or online
+    and then the system will read your ideas one at a time, allowing you to make desicions (trash, project, todo, calendar, etc...) for each thought
+
+> Time aware system... is it Sunday afternoon? lauch in 'weekly review' mode then. 
+
+
+
+
